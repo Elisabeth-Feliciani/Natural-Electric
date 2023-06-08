@@ -1,0 +1,35 @@
+/* Form Decorations */
+
+.form-style {
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flexbox;
+    justify-content: space-evenly;
+    margin-bottom: 5%;
+}
+.callus {
+    text-align: center;
+    justify-content: center;
+    margin-top: 2%;
+     margin-bottom: 2%;
+     margin-left: 25%;
+     margin-right: 25%;
+     background-color:rgb(206, 252, 79);
+     font-size: 2rem;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.send {
+    justify-content: center;
+    background-color: rgb(148, 184, 47, 1);
+    color: white;
+    border-radius: 50%;
+    padding: 1.5em;
+    border: 1px;
+    background-size: 10%;
+}
+
+.send:hover {
+    background-color: rgb(237, 240, 75);
+    color: rgb(42, 77, 134);
+}

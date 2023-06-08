@@ -1,0 +1,28 @@
+/* Body Decorations */
+
+.bio-box {
+
+    background-color: rgb(244, 244, 248);
+    opacity: 90%;
+    display: flex;
+    margin-top: 15%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 50%;
+    object-fit: contain;
+}
+
+.image {
+   
+    justify-content: center;
+}
+
+
+.biography {
+    display: flex;
+    font-size: 1em;
+   
+    
+    
+}
